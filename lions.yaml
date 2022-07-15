@@ -1,8 +1,0 @@
-team: Lions
-
-manager: Mary
-# - 는 array
-members:
-- Thomas
-- Karen
-- Margaret
