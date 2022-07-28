@@ -10,6 +10,7 @@ members:
 - David
 - Olivia
 - Evie
+- Dongho
 
 # 새로 추가된 파일이 없는 경우(nothing to untracked)엔 add 와 commit 을 한꺼번에 할 수 있다. 
 # git commit -am "(메시지)"
